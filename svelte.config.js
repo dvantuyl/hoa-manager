@@ -14,6 +14,7 @@ const config = {
 		adapter: adapter(),
 		alias: {
 			'$firebase': './src/lib/firebase.ts',
+			'$components': './src/components',
 		}
 	}
 };
